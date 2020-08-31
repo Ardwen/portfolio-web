@@ -44,6 +44,7 @@ export default class Projects extends Component {
                         <li>Other: Auth0, AWS</li>
                       </ul>
                       <span><a href="https://github.com/Ardwen/Team-up-learning_front"><i className="icon-github"/></a></span>
+                      <span><a href="https://front.d3b7uf2r1m3rp.amplifyapp.com/dashboard">demo</a></span>
 											</p>
 										</div>
 									</div>
@@ -101,6 +102,7 @@ export default class Projects extends Component {
                       <li>Other: AWS S3, CE2, RDS</li>
                     </ul>
                     <span><a href="https://github.com/Ardwen/DigitalMuseum"><i className="icon-github"/></a></span>
+                    <span><a href="http://dm-app-client.s3-website.us-east-2.amazonaws.com">demo</a></span>
                     </p>
 										</div>
 									</div>
